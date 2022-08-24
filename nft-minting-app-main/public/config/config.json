@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb8Af42375E044463E510c6Cf5a9c9031D4A78b6c",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb8af42375e044463e510c6cf5a9c9031d4a78b6c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Food Style Club",
+  "SYMBOL": "FSC",
+  "MAX_SUPPLY": 5500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/food-style-club",
+  "SHOW_BACKGROUND": true
+}
